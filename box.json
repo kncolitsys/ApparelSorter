@@ -1,0 +1,91 @@
+{
+    "name":"Apparel Sorter",
+    "version":"0.1.0",
+    "author":"Grant Copley <gcopley@gmail.com>",
+    "location":"",
+    "directory":"",
+    "createPackageDirectory":true,
+    "packageDirectory":"",
+    "homepage":"https://github.com/gcopley/apparel-sorter",
+    "documentation":"https://github.com/gcopley/apparel-sorter",
+    "repository":{
+        "type":"",
+        "url":""
+    },
+    "bugs":"",
+    "slug":"apparel-sorter",
+    "shortDescription":"Apparel Sorter provides functions for sorting apparel sizes such as XS, S, M, L.",
+    "description":"Apparel Sorter is a set of functions written in CFML that provide functionality for sorting apparel sizes such as XS, S, M, L. It can also sort numeric sizes such as 12, 14, 16W, 18W, etc.",
+    "instructions":"",
+    "changelog":"",
+    "type":"",
+    "keywords":[
+
+    ],
+    "private":false,
+    "engines":[
+        {
+            "type":"railo",
+            "version":">=4.1.x"
+        },
+        {
+            "type":"adobe",
+            "version":">=10.0.0"
+        }
+    ],
+    "defaultEngine":"",
+    "defaultPort":0,
+    "projectURL":"",
+    "license":[
+        {
+            "type":"Git",
+            "url":"https://github.com/gcopley/apparel-sorter.git"
+        }
+    ],
+    "contributors":[
+
+    ],
+    "dependencies":{
+        "testbox":"2.1.0"
+    },
+    "devDependencies":{
+
+    },
+    "installPaths":{
+        "testbox":"testbox"
+    },
+    "ignore":[
+        "**/.*",
+        "test",
+        "tests"
+    ],
+    "testbox":{
+        "runner":[
+            {
+                "default":""
+            }
+        ],
+        "labels":[
+
+        ],
+        "reporter":"text",
+        "reporterResults":"",
+        "bundles":[
+            ""
+        ],
+        "directory":{
+            "mapping":"",
+            "recurse":true
+        },
+        "watchers":[
+
+        ],
+        "notify":{
+            "emails":[
+
+            ],
+            "growl":"",
+            "url":""
+        }
+    }
+}
